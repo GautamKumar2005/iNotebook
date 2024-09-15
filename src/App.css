@@ -1,0 +1,83 @@
+/* 
+.container{
+  psuming:2rem;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.card{
+  border:2px solid black;
+  margin:1rem;
+  border-radius: 1rem;
+  psuming:1rem;
+}
+
+.card h1{
+  font-weight: 700;
+  font-size: 1.5rem;
+} */
+/* #li{
+  text-decoration: none;
+}
+.green{
+  background-color: red;
+  font-size: 2rem;
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  gap:3rem;
+  background-color: black;
+  align-items: center;
+  text-decoration: none;
+}
+ul li{
+  list-style-type: none;
+  text-decoration: none;
+  list-style: none;
+} */
+
+/* .alert {
+  position: relative;
+  psuming: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  transition: opacity 0.5s ease;
+  display: flex;
+  align-items: center;
+}
+
+.alert-warning {
+  color: #856404;
+  background-color: #fff3cd;
+  border-color: #ffeeba;
+}
+
+.alert-dismissible {
+  psuming-right: 4rem; 
+}
+
+.btn-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  color: #000;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  psuming: 0;
+}
+
+.btn-close:focus {
+  outline: none;
+}
+
+.alert.fade {
+  opacity: 0;
+}
+
+.alert.show {
+  opacity: 1;
+} */

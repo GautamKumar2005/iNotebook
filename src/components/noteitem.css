@@ -1,0 +1,20 @@
+.note {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.theta{
+    border: 2px solid blue;
+    border-radius: 5px;
+    height:10rem;
+    width:14rem;
+}
+.icon{
+    display: flex;
+    gap:15px;
+}
+.alert svg{
+    height: 0.8rem;
+}
+.alert{
+    border-radius: 0;
+}
